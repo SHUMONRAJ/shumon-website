@@ -1,0 +1,61 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 80px;
+    color: salmon;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 30px;
+}
+.half-width img {
+     width: 100%;
+}
+
+.one-third{
+    width: 10%;
+    float: left;
+    
+}
+.header-bg{
+    background-image: url("images/header-bg.png");
+    background-image: central;
+}
+.biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-image: no repeat;
+    background-position: center;
+}
+section{
+    height: 500px;
+    padding-bottom: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.message-me{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 40px 100px;
+    font-size: 30px;
+    border-radius: 5%;
+    font-weight: 500px;
+
+
+}
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+    background-position: center;
+}
+img{
+    width: 30%;
+    float: left;
+    display: inline-block;
+}
